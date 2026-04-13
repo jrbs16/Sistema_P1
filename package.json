@@ -1,0 +1,17 @@
+{
+  "name": "p1-estudo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "Jarbas Ribeiro",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^5.8.4"
+  }
+}
